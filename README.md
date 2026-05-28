@@ -26,11 +26,6 @@ Hands-on Linux administration projects involving user management, file permissio
 
 🔗 Repository: (https://github.com/diawil160/faculty-course-template)
 
-### Linux Security & Hardening
-Security-focused Linux projects demonstrating system hardening, service management, and secure configuration practices.
-
-🔗 Repository: [Linux Security Repository](LINK)
-
 ## 🛠 Technical Skills
 
 - Linux Administration
