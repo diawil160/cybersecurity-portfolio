@@ -14,12 +14,12 @@ Welcome to my cybersecurity portfolio. I am currently pursuing a Bachelor of Sci
 ### HIPAA Compliance Networking Project
 A networking and security project focused on identifying and correcting HIPAA compliance deficiencies within a healthcare environment.
 
-🔗 Repository: [HIPAA Compliance Networking Project]https://github.com/diawil160/HIPAA-Compliance-Networking-Project
+🔗 Repository: [HIPAA Compliance Networking Project](https://github.com/diawil160/HIPAA-Compliance-Networking-Project)
 
 ### AI Chatbot Creation
 Developed AI chatbot solutions and a web-based interface using Python and AI technologies.
 
-🔗 Repository: [AI Chatbot Creation]https://github.com/diawil160/AI-chatbox-creation
+🔗 Repository: [AI Chatbot Creation](https://github.com/diawil160/AI-chatbox-creation)
 
 ### Linux Administration & Git Operations
 Hands-on Linux administration exercises including SSH configuration, Git repository management, command-line operations, and system administration tasks.
