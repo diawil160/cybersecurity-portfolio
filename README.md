@@ -7,7 +7,7 @@ pursuing a Bachelor's of Science Degree with a focus on Cybesecurity.
 - 🏫 Student at ECPI University
 - 🎯 Interests: Digital Forensics, Penetration Testing, Network Defense, SOC Analysis
 - 📜 Certifications: CompTIA Security+, in progress
-- 📧 Contact: [diamond.williams2014@gmail.com
+- 📧 Contact: diamond.williams2014@gmail.com
 
 ## 📂 Portfolio Contents
 | Folder | Description |
