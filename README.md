@@ -41,5 +41,5 @@ Hands-on Linux administration projects involving user management, file permissio
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/diamond-williams-98a622241/
 - GitHub: https://github.com/diawil160
