@@ -6,7 +6,7 @@ pursuing a Bachelor's of Science Degree with a focus on Cybersecurity.
 ## 📋 About Me
 - 🏫 Student at ECPI University
 - 🎯 Interests: Digital Forensics, Penetration Testing, Network Defense, SOC Analysis
-- 📜 Certifications: CompTIA Security+, in progress
+- 📜 Certifications: CompTIA Security+ % Linux in progress
 - 📧 Contact: diamond.williams2014@gmail.com
 
 ## 📂 Portfolio Contents
