@@ -24,7 +24,7 @@ Developed AI chatbot solutions and a web-based interface using Python and AI tec
 ### Linux Administration & Git Operations
 Hands-on Linux administration exercises including SSH configuration, Git repository management, command-line operations, and system administration tasks.
 
-🔗 Repository: [Linux Repository](https://github.com/diawil160/faculty-course-template)
+🔗 Repository: [Linux Administration & Git Operations](https://github.com/diawil160/faculty-course-template)
 
 
 ## 🛠 Technical Skills
