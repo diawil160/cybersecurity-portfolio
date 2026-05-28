@@ -24,7 +24,7 @@ Developed AI chatbot solutions and a web-based interface using Python and AI tec
 ### Linux Administration Projects
 Hands-on Linux administration projects involving user management, file permissions, SSH configuration, scripting, and system hardening.
 
-🔗 Repository: [Linux Repository](LINK)
+🔗 Repository: [[Linux Repository](LINK)](https://github.com/diawil160/faculty-course-template)
 
 ### Linux Security & Hardening
 Security-focused Linux projects demonstrating system hardening, service management, and secure configuration practices.
