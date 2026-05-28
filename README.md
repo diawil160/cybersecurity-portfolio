@@ -1,8 +1,6 @@
 🔒 Cybersecurity Portfolio — Diamond Williams
 
-Welcome to my cybersecurity portfolio. I am a student at ECPI University
-pursuing a Bachelor's of Science Degree with a focus on Cybersecurity.
-
+Welcome to my cybersecurity portfolio. I am currently pursuing a Bachelor of Science in Cybersecurity and Information Security Technology at ECPI University and maintain a 4.0 GPA while working full-time.
 ## 📋 About Me
 - 🏫 Student at ECPI University
 - 🎯 Interests: Digital Forensics, Penetration Testing, Network Defense, SOC Analysis
