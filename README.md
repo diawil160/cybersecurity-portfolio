@@ -19,7 +19,7 @@ A networking and security project focused on identifying and correcting HIPAA co
 ### AI Chatbot Creation
 Developed AI chatbot solutions and a web-based interface using Python and AI technologies.
 
-🔗 Repository: [[AI Chatbot Creation](LINK)](https://github.com/diawil160/HIPAA-Compliance-Networking-Project)
+🔗 Repository: (https://github.com/diawil160/HIPAA-Compliance-Networking-Project)
 
 ### Linux Administration Projects
 Hands-on Linux administration projects involving user management, file permissions, SSH configuration, scripting, and system hardening.
