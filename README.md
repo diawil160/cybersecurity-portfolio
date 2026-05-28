@@ -21,10 +21,11 @@ Developed AI chatbot solutions and a web-based interface using Python and AI tec
 
 🔗 Repository: https://github.com/diawil160/AI-chatbox-creation
 
-### Linux Administration Projects
-Hands-on Linux administration projects involving user management, file permissions, SSH configuration, scripting, and system hardening.
+### Linux Administration & Git Operations
+Hands-on Linux administration exercises including SSH configuration, Git repository management, command-line operations, and system administration tasks.
 
 🔗 Repository: (https://github.com/diawil160/faculty-course-template)
+
 
 ## 🛠 Technical Skills
 
