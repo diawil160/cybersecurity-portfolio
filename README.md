@@ -26,6 +26,11 @@ Hands-on Linux administration exercises including SSH configuration, Git reposit
 
 🔗 Repository: [Linux Administration & Git Operations](https://github.com/diawil160/faculty-course-template)
 
+### 🔐 Ethical Hacking Vulnerability Report
+
+A professional presentation summarizing hands-on ethical hacking labs, including reconnaissance, vulnerability assessment, malware analysis, network traffic analysis, and mitigation strategies.
+
+**Repository:** https://github.com/diawil160/ethical-hacking-vulnerability-report
 
 ## 🛠 Technical Skills
 
