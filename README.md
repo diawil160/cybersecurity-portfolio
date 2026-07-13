@@ -30,20 +30,24 @@ Hands-on Linux administration exercises including SSH configuration, Git reposit
 
 A professional presentation summarizing hands-on ethical hacking labs, including reconnaissance, vulnerability assessment, malware analysis, network traffic analysis, and mitigation strategies.
 
-**Repository:** https://github.com/diawil160/ethical-hacking-vulnerability-report
+🔗 Repository: Ethical Hacking Vulnerability Report
 
 ## 🛠 Technical Skills
 
-- Linux Administration
-- Windows Administration
-- Active Directory
-- Networking and Routing
-- AWS, Azure, and Google Cloud
-- Python Automation
-- Cybersecurity Fundamentals
-- Security Hardening
-- HIPAA Compliance
-- Troubleshooting and System Administration
+• Linux Administration
+• Windows Administration
+• Active Directory
+• Networking & Routing
+• AWS, Microsoft Azure & Google Cloud
+• Python Automation
+• Ethical Hacking
+• Penetration Testing Methodologies
+• Vulnerability Assessment
+• Network Traffic Analysis (Wireshark)
+• Malware Analysis
+• Security Hardening
+• HIPAA Compliance
+• Troubleshooting & System Administration
 
 ## 📫 Contact
 
