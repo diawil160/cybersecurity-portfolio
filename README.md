@@ -29,7 +29,7 @@ Designed, configured, and secured a multi-site enterprise network using Cisco Pa
 
 Multi-week group cybersecurity project focused on remediating security findings across Windows Server, Linux, and pfSense environments. My primary contribution focused on access control remediation, including Samba permissions, Linux security hardening, Windows access controls, and pfSense administrative security.
 
-🔗 Repository: [Enterprise Security Remediation & Hardening](YOUR-REPOSITORY-LINK)
+🔗 Repository: [Enterprise Security Remediation & Hardening](https://github.com/diawil160/enterprise-security-remediation-hardening)
 
 ### 🖥️ Windows Server & Active Directory Administration
 
