@@ -71,6 +71,12 @@ A professional presentation summarizing hands-on ethical hacking labs, including
 
 🔗 Repository: [Ethical Hacking Vulnerability Report](https://github.com/diawil160/ethical-hacking-vulnerability-report)
 
+### 🕵️ Penetration Testing Security Assessment
+
+Conducted a simulated penetration testing assessment involving reconnaissance, vulnerability analysis, exploitation planning, MITRE ATT&CK and OWASP mapping, and risk-based remediation. Developed both a detailed technical report and an executive presentation to communicate findings to technical and non-technical stakeholders.
+
+🔗 Repository: [Penetration Testing Security Assessment](PASTE-REPO-LINK-HERE)
+
 ## 🛠 Technical Skills
 
 • Linux Administration
