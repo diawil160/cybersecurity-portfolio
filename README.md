@@ -35,7 +35,7 @@ Multi-week group cybersecurity project focused on remediating security findings 
 
 Completed five hands-on Windows administration labs covering Active Directory Domain Services, DNS, user and group management, storage and permissions, system recovery, Hyper-V, DHCP, Group Policy, and Windows Server security.
 
-🔗 Repository: [Windows Server & Active Directory Administration](YOUR-REPO-LINK-HERE)
+🔗 Repository: [Windows Server & Active Directory Administration](https://github.com/diawil160/windows-server-active-directory-lab)
 
 ### 🖥️ Cybersecurity Home Lab
 
