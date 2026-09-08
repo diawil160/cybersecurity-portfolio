@@ -1,13 +1,16 @@
 # 🔐 Cybersecurity Portfolio — Diamond Williams
 
-Welcome to my cybersecurity portfolio. I am currently pursuing a Bachelor of Science in Cybersecurity and Information Security Technology at ECPI University while working full-time in healthcare administration. This portfolio highlights projects and hands-on experience in networking, Linux administration, cloud computing, cybersecurity, and automation.
+Welcome to my cybersecurity portfolio. I am a Cybersecurity & Information Security Technology graduate from ECPI University with hands-on experience in security operations, incident response, ethical hacking, Linux administration, networking, cloud computing, and automation.
+
+This portfolio highlights projects and labs demonstrating my experience investigating security events, analyzing vulnerabilities, administering systems, and applying cybersecurity concepts in practical environments.
 
 ## 👩🏽‍💻 About Me
 
-- 🎓 Cybersecurity & Information Security Technology Student at ECPI University
+- 🎓 Bachelor of Science in Cybersecurity & Information Security Technology — ECPI University
 - ⭐ 4.0 GPA
-- 🎯 Interests: Network Security, Digital Forensics, Cloud Security, Penetration Testing, and Security Operations
-- 📜 Certifications: CompTIA Security+ (In Progress), Linux Certification (In Progress)
+- 🛡️ CompTIA Security+ Certified
+- 🎯 Interests: Security Operations, Incident Response, Digital Forensics, Penetration Testing, and Vulnerability Management
+- 💻 Hands-on Experience: Wazuh SIEM, incident investigation, threat hunting, Linux, Active Directory, Wireshark, Nmap, cloud platforms, and security hardening
 
 ## 📂 Featured Projects
 
