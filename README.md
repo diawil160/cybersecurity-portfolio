@@ -63,7 +63,7 @@ Created a step-by-step Linux administration guide documenting the installation, 
 
 Evaluated AWS public cloud deployment from a security and business perspective, including cloud vs. on-premises infrastructure, security threats and mitigations, and Business Continuity and Disaster Recovery strategies.
 
-🔗 Repository: [AWS Cloud Security & Business Continuity Project](PASTE-REPO-LINK-HERE)
+🔗 Repository: [AWS Cloud Security & Business Continuity Project](https://github.com/diawil160/AWS-Cloud-Security-BCDR-Project)
 
 ### 🔐 Ethical Hacking Vulnerability Report
 
