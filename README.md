@@ -59,6 +59,12 @@ Created a step-by-step Linux administration guide documenting the installation, 
 
 🔗 Repository: [Linux Web & DNS Server Configuration Guide](PASTE-REPO-LINK-HERE)
 
+### ☁️ AWS Cloud Security & Business Continuity Project
+
+Evaluated AWS public cloud deployment from a security and business perspective, including cloud vs. on-premises infrastructure, security threats and mitigations, and Business Continuity and Disaster Recovery strategies.
+
+🔗 Repository: [AWS Cloud Security & Business Continuity Project](PASTE-REPO-LINK-HERE)
+
 ### 🔐 Ethical Hacking Vulnerability Report
 
 A professional presentation summarizing hands-on ethical hacking labs, including reconnaissance, vulnerability assessment, malware analysis, network traffic analysis, and mitigation strategies.
