@@ -25,6 +25,12 @@ Designed, configured, and secured a multi-site enterprise network using Cisco Pa
 
 🔗 Repository: [Multi-Site Network Design & Security](YOUR-REPOSITORY-LINK)
 
+### 🛡️ Enterprise Security Remediation & Hardening
+
+Multi-week group cybersecurity project focused on remediating security findings across Windows Server, Linux, and pfSense environments. My primary contribution focused on access control remediation, including Samba permissions, Linux security hardening, Windows access controls, and pfSense administrative security.
+
+🔗 Repository: [Enterprise Security Remediation & Hardening](YOUR-REPOSITORY-LINK)
+
 ### AI Chatbot Creation
 Developed AI chatbot solutions and a web-based interface using Python and AI technologies.
 
