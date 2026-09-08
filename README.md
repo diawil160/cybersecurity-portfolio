@@ -77,6 +77,12 @@ Conducted a simulated penetration testing assessment involving reconnaissance, v
 
 🔗 Repository: [Penetration Testing Security Assessment](PASTE-REPO-LINK-HERE)
 
+### 🚨 SOC Breach Incident Investigation
+
+Investigated advanced simulated security incidents involving phishing, credential compromise, PowerShell activity, persistence, lateral movement, and data exfiltration. Correlated evidence across multiple security sources to reconstruct attack activity and develop containment and remediation actions.
+
+🔗 Repository: [SOC Breach Incident Investigation](PASTE-REPO-LINK-HERE)
+
 ## 🛠 Technical Skills
 
 • Linux Administration
