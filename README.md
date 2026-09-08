@@ -87,7 +87,7 @@ Investigated advanced simulated security incidents involving phishing, credentia
 
 Investigated security incidents within an adaptive SOC environment using Wazuh SIEM, Zammad case management, Suricata telemetry, and MITRE ATT&CK. Correlated security events, reconstructed attack activity, identified IOCs, and developed evidence-based containment and recovery actions. The experience concluded with a ticket-based SOC challenge competition where I completed 20 investigations, earned 4,650 points, and reached #1 on the analyst leaderboard during the competition.
 
-🔗 Repository: [Wazuh SOC Incident Investigation](PASTE-REPO-LINK-HERE)
+🔗 Repository: [Wazuh SOC Incident Investigation](https://github.com/diawil160/wazuh-soc-incident-investigation)
 
 ## 🛠 Technical Skills
 
