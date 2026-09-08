@@ -31,6 +31,12 @@ Multi-week group cybersecurity project focused on remediating security findings 
 
 🔗 Repository: [Enterprise Security Remediation & Hardening](YOUR-REPOSITORY-LINK)
 
+### 🖥️ Windows Server & Active Directory Administration
+
+Completed five hands-on Windows administration labs covering Active Directory Domain Services, DNS, user and group management, storage and permissions, system recovery, Hyper-V, DHCP, Group Policy, and Windows Server security.
+
+🔗 Repository: [Windows Server & Active Directory Administration](YOUR-REPO-LINK-HERE)
+
 ### AI Chatbot Creation
 Developed AI chatbot solutions and a web-based interface using Python and AI technologies.
 
