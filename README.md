@@ -53,6 +53,12 @@ Hands-on Linux administration exercises including SSH configuration, Git reposit
 
 🔗 Repository: [Linux Administration & Git Operations](https://github.com/diawil160/faculty-course-template)
 
+### 🐧 Linux Web & DNS Server Configuration Guide
+
+Created a step-by-step Linux administration guide documenting the installation, configuration, and validation of Nginx web services and Bind9 DNS. Demonstrates Linux service administration, DNS configuration, testing, and professional technical documentation.
+
+🔗 Repository: [Linux Web & DNS Server Configuration Guide](PASTE-REPO-LINK-HERE)
+
 ### 🔐 Ethical Hacking Vulnerability Report
 
 A professional presentation summarizing hands-on ethical hacking labs, including reconnaissance, vulnerability assessment, malware analysis, network traffic analysis, and mitigation strategies.
