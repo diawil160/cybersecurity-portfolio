@@ -37,6 +37,12 @@ Completed five hands-on Windows administration labs covering Active Directory Do
 
 🔗 Repository: [Windows Server & Active Directory Administration](YOUR-REPO-LINK-HERE)
 
+### 🖥️ Cybersecurity Home Lab
+
+Built and expanded a personal virtual lab using VMware Workstation with Windows Server, Windows clients, Ubuntu, AlmaLinux, and Kali Linux. The environment supported hands-on practice with Active Directory, Linux administration, system hardening, network scanning, and security testing.
+
+🔗 Repository: [Cybersecurity Home Lab](PASTE-YOUR-REPOSITORY-LINK-HERE)
+
 ### AI Chatbot Creation
 Developed AI chatbot solutions and a web-based interface using Python and AI technologies.
 
