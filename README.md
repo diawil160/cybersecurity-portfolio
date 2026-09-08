@@ -19,6 +19,12 @@ A networking and security project focused on identifying and correcting HIPAA co
 
 🔗 Repository: [HIPAA Compliance Networking Project](https://github.com/diawil160/HIPAA-Compliance-Networking-Project)
 
+### 🌐 Multi-Site Network Design & Security
+
+Designed, configured, and secured a multi-site enterprise network using Cisco Packet Tracer, including VLAN segmentation, OSPF routing, DHCP, subnetting, and network security controls.
+
+🔗 Repository: [Multi-Site Network Design & Security](YOUR-REPOSITORY-LINK)
+
 ### AI Chatbot Creation
 Developed AI chatbot solutions and a web-based interface using Python and AI technologies.
 
