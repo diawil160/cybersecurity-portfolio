@@ -75,7 +75,7 @@ A professional presentation summarizing hands-on ethical hacking labs, including
 
 Conducted a simulated penetration testing assessment involving reconnaissance, vulnerability analysis, exploitation planning, MITRE ATT&CK and OWASP mapping, and risk-based remediation. Developed both a detailed technical report and an executive presentation to communicate findings to technical and non-technical stakeholders.
 
-🔗 Repository: [Penetration Testing Security Assessment](PASTE-REPO-LINK-HERE)
+🔗 Repository: [Penetration Testing Security Assessment](https://github.com/diawil160/penetration-testing-security-assessment)
 
 ### 🚨 SOC Breach Incident Investigation
 
