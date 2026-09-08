@@ -81,7 +81,7 @@ Conducted a simulated penetration testing assessment involving reconnaissance, v
 
 Investigated advanced simulated security incidents involving phishing, credential compromise, PowerShell activity, persistence, lateral movement, and data exfiltration. Correlated evidence across multiple security sources to reconstruct attack activity and develop containment and remediation actions.
 
-🔗 Repository: [SOC Breach Incident Investigation](PASTE-REPO-LINK-HERE)
+🔗 Repository: [SOC Breach Incident Investigation](https://github.com/diawil160/soc-breach-incident-investigation)
 
 ### 🛡️ Wazuh SOC Incident Investigation
 
