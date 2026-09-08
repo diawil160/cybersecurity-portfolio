@@ -57,7 +57,7 @@ Hands-on Linux administration exercises including SSH configuration, Git reposit
 
 Created a step-by-step Linux administration guide documenting the installation, configuration, and validation of Nginx web services and Bind9 DNS. Demonstrates Linux service administration, DNS configuration, testing, and professional technical documentation.
 
-🔗 Repository: [Linux Web & DNS Server Configuration Guide](PASTE-REPO-LINK-HERE)
+🔗 Repository: [Linux Web & DNS Server Configuration Guide](https://github.com/diawil160/-Linux-Web-DNS-Server-Configuration-Guide)
 
 ### ☁️ AWS Cloud Security & Business Continuity Project
 
