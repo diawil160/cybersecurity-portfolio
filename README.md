@@ -23,7 +23,7 @@ A networking and security project focused on identifying and correcting HIPAA co
 
 Designed, configured, and secured a multi-site enterprise network using Cisco Packet Tracer, including VLAN segmentation, OSPF routing, DHCP, subnetting, and network security controls.
 
-🔗 Repository: [Multi-Site Network Design & Security](YOUR-REPOSITORY-LINK)
+🔗 Repository: [Multi-Site Network Design & Security]([YOUR-REPOSITORY-LINK](https://github.com/diawil160/multi-site-network-design-security)
 
 ### 🛡️ Enterprise Security Remediation & Hardening
 
